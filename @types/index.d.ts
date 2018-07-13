@@ -1,1 +1,3 @@
-// This is a placeholder for manually written type definitions.
+export default class BaseError extends Error {
+	constructor(message?: string)
+}

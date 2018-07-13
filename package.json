@@ -1,7 +1,7 @@
 {
-  "name": "@player1os/js-npm-package",
-  "version": "0.0.0",
-  "description": "A base project from which npm packages written in javascript can be derived",
+  "name": "@player1os/base-error",
+  "version": "1.2.0",
+  "description": "A module that exports an error class that can be safely extended",
   "private": false,
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Player1os/js-npm-package.git"
+    "url": "git+https://github.com/Player1os/js-base-error.git"
   },
   "keywords": [
-    "js",
-    "npm",
-    "package"
+    "base",
+    "error",
+    "extendable"
   ],
   "author": "Osama Hassanein <player1os@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Player1os/js-npm-package/issues"
+    "url": "https://github.com/Player1os/js-base-error/issues"
   },
-  "homepage": "https://github.com/Player1os/js-npm-package/#readme",
+  "homepage": "https://github.com/Player1os/js-base-error/#readme",
   "devDependencies": {
     "@player1os/js-npm-package-support": "^1.0.3"
   }

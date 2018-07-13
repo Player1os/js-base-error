@@ -1,3 +1,3 @@
-# JS NPM Package
+# JS Base Error
 
-A base project from which npm packages written in javascript can be derived.
+A module that exports an error class that can be safely extended.
