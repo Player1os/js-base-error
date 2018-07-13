@@ -1,6 +1,6 @@
 {
   "name": "@player1os/base-error",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A module that exports an error class that can be safely extended",
   "private": false,
   "publishConfig": {
